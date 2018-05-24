@@ -55,6 +55,10 @@
 	height: 200px;
 }
 
+#first {
+	padding: 20px;
+}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -2026,6 +2030,8 @@
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
+		padding-left: 20px;
+		padding-right: 20px;
 	}
 
 		#banner .button {
