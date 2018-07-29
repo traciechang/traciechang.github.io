@@ -59,6 +59,10 @@
 	padding: 20px;
 }
 
+#second {
+	padding: 20px 20px 20px 50px;
+}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -1827,6 +1831,10 @@
 				}
 
 				#auction-gif {
+					width: 100%;
+				}
+
+				#snippet-gif {
 					width: 100%;
 				}
 
