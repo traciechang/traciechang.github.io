@@ -59,9 +59,21 @@
 	padding: 20px;
 }
 
-/* #second {
-	padding: 20px 20px 20px 50px;
-} */
+.iconz {
+	height: 125px;
+	width: 125px;
+	object-fit: contain;
+}
+
+.iconz2 {
+	height: 100px;
+	width: 100px;
+	object-fit: contain;
+}
+
+.feature-points {
+	list-style: circle;
+}
 
 /* Box Model */
 
@@ -1832,10 +1844,12 @@
 
 				#auction-gif {
 					width: 100%;
+					object-fit: contain;
 				}
 
 				#snippet-gif {
 					width: 100%;
+					object-fit: contain;
 				}
 
 				.box.style1 .image img {
