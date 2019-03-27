@@ -55,9 +55,18 @@
 	height: 200px;
 }
 
+.skills-icons-box {
+	border: 1px solid white;
+	margin-top: 40px;
+}
+
 #first {
 	padding: 20px;
 }
+
+/* .icon-div {
+	cursor: default;
+} */
 
 .iconz {
 	height: 125px;
@@ -1906,7 +1915,8 @@
 
 			.box.style2 .inner {
 				position: relative;
-				padding: 40px 0 0px 0;
+				/* took out for skills-icons-box */
+				/* padding: 40px 0 0px 0; */
 			}
 
 				.box.style2 .inner:after {
